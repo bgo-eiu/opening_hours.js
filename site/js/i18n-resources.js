@@ -16,6 +16,8 @@ var resources = { // English is fallback language.
                 "es": "Spanish",
                 "vi": "Vietnamese",
                 "ja": "Japanese",
+                "pnb": "Punjabi (Shahmukhi)",
+                "pa": "Punjabi (Gurmukhi)",
                 "choose": "Choose Language",
             },
 
